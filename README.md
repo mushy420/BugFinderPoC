@@ -1,3 +1,2 @@
-# marketing.exness.com
-
+# example.com
 ## Subdomain takeover by Inappropiatebugreports
