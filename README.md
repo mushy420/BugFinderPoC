@@ -1,3 +1,3 @@
-# checkout.shopify.com
+# domainexample.com
 
 ## Subdomain takeover by Inappropiatebugreports
