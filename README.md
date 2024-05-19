@@ -1,2 +1,2 @@
-# example.com
+# mail.frontegg.com
 ## Subdomain takeover by Inappropiatebugreports
