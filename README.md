@@ -1,2 +1,2 @@
-# ecommerce.paypal.com
+# example.com
 ## Subdomain takeover by Inappropiatebugreports
